@@ -1,0 +1,13 @@
+
+.idea/
+.vscode/
+*.egg-info/
+*.pth
+*.zip
+*.jpg
+*.pyc
+
+/__pycache__/
+log/
+samples/
+models/
